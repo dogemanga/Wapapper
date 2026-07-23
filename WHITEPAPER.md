@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.jpeg" alt="DogeManga Logo" width="250">
-</p>
-
 # 🐶 DOGEMANGA ($DGM)
 # 🐶 DOGEMANGA ($DGM)
 
